@@ -31,18 +31,23 @@ I also program Games for fun.
 <!--[![](https://img.shields.io/badge/-Mathematica-white?logoColor=red&style=for-the-badge&logo=wolfram-mathematica)](https://www.wolfram.com/mathematica/)-->
 
 [![](https://img.shields.io/badge/-Ubuntu-E95420?logoColor=white&style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
-
-
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ph504&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Arya Parvizi's github stats](https://github-readme-stats.vercel.app/api?username=ph504&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+---
 
 ## Languages
+
+<div align="center">
+
 :iran: فارسی | :uk: English | :jp: 日本語
 -|-|-
+
+</div>
 
 ---
 ## More About Me
