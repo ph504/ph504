@@ -3,25 +3,24 @@
 </h1>
 
 # PH504 👨‍💻
----
+
 ## Introduction
 
 born in August 8th, 1998.
 
 ### Bio
 Hi, 
-I am a CSE undergraduate senior student at Shahid Beheshti University. 
+I am a CSE undergraduate senior student at Shahid Beheshti University📚. 
 My Favorite programming language is Java, But Matlab is awesome too! 
 I love Computer Vision and Image processing 
 and I am currently trying to learn more about ML, RL, DL, DRL and Robotics 🤖. 
-I also program Games for fun.
+I also program Games for fun.🎮
 
----
 ## Skills and Technologies
 <div align="center">
 
 [![](https://img.shields.io/badge/-Java-white?logoColor=red&style=for-the-badge&logo=java)](https://www.java.com/)
-[![](https://img.shields.io/badge/-python3-E95420?style=for-the-badge&logo=python)](https://www.python.org/)
+[![](https://img.shields.io/badge/-python3-yellow?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
 [![](https://img.shields.io/badge/-c++-lightblue?logoColor=blue&style=for-the-badge&logo=c%2B%2B)](https://www.cplusplus.com/)
 
 [![](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity)](https://unity.com/)
@@ -31,10 +30,9 @@ I also program Games for fun.
 <!--[![](https://img.shields.io/badge/-Mathematica-white?logoColor=red&style=for-the-badge&logo=wolfram-mathematica)](https://www.wolfram.com/mathematica/)-->
 
 [![](https://img.shields.io/badge/-Ubuntu-E95420?logoColor=white&style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
+
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ph504&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ph504&theme=chartreuse-dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 [![Arya Parvizi's github stats](https://github-readme-stats.vercel.app/api?username=ph504&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
@@ -55,7 +53,7 @@ I also program Games for fun.
 
 
 ### Sports
-I love sports. if there is no COVID feel free to challenge me in any of the following list (strength in descending order). you can challenge me here and now in chess though!
+I love sports. if there is no COVID feel free to challenge me in any of the following list (strength in descending order). you can challenge me here and now in [chess](https://www.chess.com/member/aryaparvizi) though!
 <div align="center">
 
 
