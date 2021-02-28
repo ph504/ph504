@@ -20,7 +20,7 @@ I also program Games for fun.🎮
 <div align="center">
 
 [![](https://img.shields.io/badge/-Java-white?logoColor=red&style=for-the-badge&logo=java)](https://www.java.com/)
-[![](https://img.shields.io/badge/-python3-E95420?style=for-the-badge&logo=python)](https://www.python.org/)
+[![](https://img.shields.io/badge/-python3-yellow?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
 [![](https://img.shields.io/badge/-c++-lightblue?logoColor=blue&style=for-the-badge&logo=c%2B%2B)](https://www.cplusplus.com/)
 
 [![](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity)](https://unity.com/)
