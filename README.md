@@ -3,12 +3,6 @@
 </h1>
 
 # PH504 👨‍💻
-## Contact Me
-
-[![](https://img.shields.io/badge/-aryaparvizi98@gmail.com-white?style=for-the-badge&logo=gmail)](aryaparvizi98@gmail.com)
-[![](https://img.shields.io/badge/-instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/aryaparvizi/)
-[![](https://img.shields.io/badge/-telegram-lightblue?style=for-the-badge&logo=telegram)](https://t.me/aph504)
-[![](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arya-parvizi-a37122151/)
 
 ## Introduction
 
@@ -16,10 +10,14 @@ born in August 8th, 1998, Shiraz Iran.
 
 ### Bio
 Hi, 
-I have graduated from Shahid Beheshti University (2022)📚. 
-I love Computer Vision and Image processing 
+I graduated from Shahid Beheshti University with a bsc. degree in computer engineering in summer 2022📚. 
+
+I love Computer Vision and Image Processing and Computer Graphics.
+
 and I am currently trying to learn more about ML, RL, DL, DRL and Robotics 🤖. 
+
 while learning, I'm sharing my knowledge with awesome freshman students at the university.
+
 I also program Games for fun.🎮
 
 ## Skills and Technologies
@@ -35,11 +33,19 @@ I also program Games for fun.🎮
 
 
 <!--[![](https://img.shields.io/badge/-Mathematica-white?logoColor=red&style=for-the-badge&logo=wolfram-mathematica)](https://www.wolfram.com/mathematica/)-->
+</div>
 
+## Contact Me
+<div align="center">
+	
+[![](https://img.shields.io/badge/-aryaparvizi98@gmail.com-white?style=for-the-badge&logo=gmail)](aryaparvizi98@gmail.com)
+[![](https://img.shields.io/badge/-instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/aryaparvizi/)
+[![](https://img.shields.io/badge/-telegram-lightblue?style=for-the-badge&logo=telegram)](https://t.me/aph504)
+[![](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arya-parvizi-a37122151/)
 
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ph504&theme=chartreuse-dark&layout=compact&hide=d,shell,cpp,makefile&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ph504&theme=chartreuse-dark&layout=compact&hide=d,shell,cpp,makefile&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Arya Parvizi's github stats](https://github-readme-stats.vercel.app/api?username=ph504&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
