@@ -10,10 +10,10 @@ born in August 8th, 1998, Shiraz Iran.
 
 ### Bio
 Hi, 
-I am a CSE undergraduate senior student at Shahid Beheshti University📚. 
-My Favorite programming language is Java, But Matlab is awesome too! 
+I have graduated from Shahid Beheshti University (2022)📚. 
 I love Computer Vision and Image processing 
 and I am currently trying to learn more about ML, RL, DL, DRL and Robotics 🤖. 
+while learning, I'm sharing my knowledge with awesome freshman students at the university.
 I also program Games for fun.🎮
 
 ## Skills and Technologies
@@ -53,7 +53,7 @@ I also program Games for fun.🎮
 
 
 ### Sports
-I love sports. if there is no COVID feel free to challenge me in any of the following list (strength in descending order). you can challenge me here and now in [chess](https://www.chess.com/member/aryaparvizi) though!
+I love sports. feel free to challenge me in any of the following list (strength in descending order). you can challenge me here and now in [chess](https://www.chess.com/member/aryaparvizi) though!
 <div align="center">
 
 
