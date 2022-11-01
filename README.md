@@ -6,7 +6,7 @@
 
 ## Introduction
 
-born in August 8th, 1998.
+born in August 8th, 1998, Shiraz Iran.
 
 ### Bio
 Hi, 
