@@ -22,14 +22,15 @@ I also program Games for fun.🎮
 [![](https://img.shields.io/badge/-Java-white?logoColor=red&style=for-the-badge&logo=java)](https://www.java.com/)
 [![](https://img.shields.io/badge/-python3-yellow?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
 [![](https://img.shields.io/badge/-c++-lightblue?logoColor=blue&style=for-the-badge&logo=c%2B%2B)](https://www.cplusplus.com/)
+[![](https://img.shields.io/badge/-Matlab-orange?logoColor=white&style=for-the-badge&logo=matlab)](https://matlab.mathworks.com/)
 
 [![](https://img.shields.io/badge/-Unity-black?style=for-the-badge&logo=unity)](https://unity.com/)
 [![](https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=unity)](https://unity.com/)
 
-[![](https://img.shields.io/badge/-Matlab-orange?logoColor=white&style=for-the-badge&logo=matlab)](https://matlab.mathworks.com/)
+
 <!--[![](https://img.shields.io/badge/-Mathematica-white?logoColor=red&style=for-the-badge&logo=wolfram-mathematica)](https://www.wolfram.com/mathematica/)-->
 
-[![](https://img.shields.io/badge/-Ubuntu-E95420?logoColor=white&style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
+
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ph504&theme=chartreuse-dark&layout=compact&hide=d,shell,cpp,makefile&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
