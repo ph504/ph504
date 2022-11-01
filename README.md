@@ -6,6 +6,9 @@
 ## Contact Me
 
 [![](https://img.shields.io/badge/-aryaparvizi98@gmail.com-white?style=for-the-badge&logo=gmail)](aryaparvizi98@gmail.com)
+[![](https://img.shields.io/badge/-instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/aryaparvizi/)
+[![](https://img.shields.io/badge/-telegram-lightblue?style=for-the-badge&logo=telegram)](https://t.me/aph504)
+[![](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arya-parvizi-a37122151/)
 
 ## Introduction
 
