@@ -3,6 +3,9 @@
 </h1>
 
 # PH504 👨‍💻
+## Contact Me
+
+[![](https://img.shields.io/badge/-aryaparvizi98@gmail.com-white?style=for-the-badge&logo=gmail)](aryaparvizi98@gmail.com)
 
 ## Introduction
 
@@ -76,10 +79,7 @@ I love sports. feel free to challenge me in any of the following list (strength 
 </div>
 
 ---
-## Contact Me
-<div align="center">
 
-[![](https://img.shields.io/badge/-aresparvizi@gmail.com-white?style=for-the-badge&logo=gmail)](aresparvizi@gmail.com)
 
-</div>
+
 
