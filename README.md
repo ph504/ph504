@@ -9,7 +9,7 @@
 born in August 8th, 1998, Shiraz Iran.
 
 ### Bio
-Hi, I graduated from Shahid Beheshti University with a bsc. degree in computer engineering in summer 2022. I have a keen interest in Robotics, Reinforcement Learning, Machine Learning, Deep Learning, Computer Vision, Image Processing, Signal Processing. I have worked with mechanical arms, mobile robots, experienced various problems and enjoyed solving them in my internship and my bachelor thesis. since physical systems are too expensive to work with, I focused on developing my robotic projects with the powerful Webots robot simulator, I used this simulator in all my robotics related projects. while learning, I’m sharing my knowledge with awesome freshman students at Shahid Beheshti university, hope they achieve only success and fortune in their lives. I program games for fun.
+Hi, I graduated from Shahid Beheshti University with a bsc. degree in computer engineering in summer 2022. I have a keen interest in Robotics, Reinforcement Learning, Machine Learning, Deep Learning, Computer Vision, Image Processing, Signal Processing. I have worked with mechanical arms, mobile robots, experienced various problems and enjoyed solving them in my internship and my bachelor thesis. since physical systems are too expensive to work with, I focused on developing my robotic projects with the powerful Webots robot simulator, I used this simulator in all my robotics related projects. While learning, I’m sharing my knowledge with awesome freshman students at Shahid Beheshti university, hope they achieve only success and fortune in their lives. I program games for fun.
 
 ## Skills and Technologies
 <div align="center">
