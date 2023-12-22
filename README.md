@@ -6,10 +6,10 @@
 
 ## Introduction
 
-born in August 8th, 1998, Shiraz Iran.
+Born on August 8th, 1998, in Shiraz, Iran.
 
 ### Bio
-Hi, I graduated from Shahid Beheshti University with a bsc. degree in computer engineering in summer 2022. I have a keen interest in Robotics, Reinforcement Learning, Machine Learning, Deep Learning, Computer Vision, Image Processing, Signal Processing. I have worked with mechanical arms, mobile robots, experienced various problems and enjoyed solving them in my internship and my bachelor thesis. since physical systems are too expensive to work with, I focused on developing my robotic projects with the powerful Webots robot simulator, I used this simulator in all my robotics related projects. While learning, I’m sharing my knowledge with awesome freshman students at Shahid Beheshti university, hope they achieve only success and fortune in their lives. I program games for fun.
+Hi, I am currently an MSc. student in computer science at the University of New Brunswick. I graduated from Shahid Beheshti University with a BSc. Degree in computer engineering in summer 2022. I have a keen interest in Robotics, Reinforcement Learning, Machine Learning, Deep Learning, Computer Vision, Image Processing, and Signal Processing. I have worked with mechanical arms and mobile robots, experienced various problems, and enjoyed solving them in my internship and my bachelor's thesis. Since physical systems are too expensive to work with, I focused on developing my robotic projects with the powerful Webots robot simulator, which I used in all my robotics-related projects. I am enthusiastic about sharing what I learn with my underclassmen. I program games for fun.
 
 ## Skills and Technologies
 <div align="center">
