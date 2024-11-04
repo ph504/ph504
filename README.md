@@ -51,7 +51,7 @@ In my bachelor's degree, I have worked with mechanical arms and mobile robots, e
 
 <div align="center">
 
-:iran: فارسی | :uk: English | :jp: 日本語 | :fe: Francais
+:iran: فارسی | :uk: English | :jp: 日本語 | :🇫🇷: Français
 -|-|-|-
 
 </div>
