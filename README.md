@@ -9,7 +9,11 @@
 Born on August 8th, 1998, in Shiraz, Iran.
 
 ### Bio
-Hi, I am currently an MSc. student in computer science at the University of New Brunswick. I graduated from Shahid Beheshti University with a BSc. Degree in computer engineering in summer 2022. I have a keen interest in Robotics, Reinforcement Learning, Machine Learning, Deep Learning, Computer Vision, Image Processing, and Signal Processing. I have worked with mechanical arms and mobile robots, experienced various problems, and enjoyed solving them in my internship and my bachelor's thesis. Since physical systems are too expensive to work with, I focused on developing my robotic projects with the powerful Webots robot simulator, which I used in all my robotics-related projects. I am enthusiastic about sharing what I learn with my underclassmen. I program games for fun.
+Hi, I am currently an MSc. student in computer science at the University of New Brunswick. I have been graduated from Shahid Beheshti University with a BSc. Degree in computer engineering in summer 2022. I have a keen interest in Robotics, Reinforcement Learning, Deep Learning, and Computer Vision. 
+
+I am working currently on NAO and Jackal robots!
+
+In my bachelor's degree, I have worked with mechanical arms and mobile robots, experienced various problems, and enjoyed solving them in my internship and my bachelor's thesis. Since physical systems are too expensive to work with, I focused on developing my robotic projects with the powerful Webots robot simulator, which I used in all my robotics-related projects. I am enthusiastic about sharing what I learn with my underclassmen. I program games for fun.
 
 ## Skills and Technologies
 <div align="center">
@@ -37,7 +41,7 @@ Hi, I am currently an MSc. student in computer science at the University of New 
 
 ---
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ph504&theme=chartreuse-dark&layout=compact&hide=d,shell,cpp,makefile&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Arya Parvizi's github stats](https://github-readme-stats.vercel.app/api?username=ph504&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Arya Parvizi's github stats](https://github-readme-stats.vercel.app/api?username=ph504&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 </div>
 
@@ -47,8 +51,8 @@ Hi, I am currently an MSc. student in computer science at the University of New 
 
 <div align="center">
 
-:iran: فارسی | :uk: English | :jp: 日本語
--|-|-
+:iran: فارسی | :uk: English | :jp: 日本語 | :fe: Francais
+-|-|-|-
 
 </div>
 
@@ -56,25 +60,16 @@ Hi, I am currently an MSc. student in computer science at the University of New 
 ## More About Me
 
 
-### Sports
-I love sports. feel free to challenge me in any of the following list (strength in descending order). you can challenge me here and now in [chess](https://www.chess.com/member/aryaparvizi) though!
+### Sports and Hobbies
+I love wrestling and swimming! I do cycling and I go motorbiking in biking season ~ Always down for good companies and good times and conversations
 <div align="center">
-
-
-[![](https://img.shields.io/badge/-swimming-lightblue?style=for-the-badge&label=%f0%9f%8f%8a)]()
-[![](https://img.shields.io/badge/-badminton-lightblue?style=for-the-badge&label=%f0%9f%8f%b8)]()
-[![](https://img.shields.io/badge/-chess-lightblue?style=for-the-badge&label=%e2%99%9e)](https://www.chess.com/member/aryaparvizi)
-[![](https://img.shields.io/badge/-bicycling-lightblue?style=for-the-badge&label=%f0%9f%9a%b4)]()
-[![](https://img.shields.io/badge/-pingpong-lightblue?style=for-the-badge&label=%f0%9f%8f%93)]()
-[![](https://img.shields.io/badge/-volleyball-lightblue?style=for-the-badge&label=%f0%9f%8f%90)]()
-[![](https://img.shields.io/badge/-wrestling-lightblue?style=for-the-badge&label=%f0%9f%a4%bc)]()
 
 </div>
 
 ---
 <div align="center">
 
-[![](https://img.shields.io/badge/-violin-violet?style=for-the-badge&label=%f0%9f%8e%bb)](https://youtu.be/6qOXw5ySxpQ?t=141)
+<!--[![](https://img.shields.io/badge/-violin-violet?style=for-the-badge&label=%f0%9f%8e%bb)](https://youtu.be/6qOXw5ySxpQ?t=141)-->
 [![](https://img.shields.io/badge/-pizza-red?style=for-the-badge&label=%f0%9f%8d%95)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiLp-_YuYvvAhUOV8AKHc-jCnUQFjAFegQIMBAD&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPizza&usg=AOvVaw2ZdHFN3Sn5DadwN1fuAvjs)
 </div>
 
