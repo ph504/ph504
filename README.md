@@ -73,7 +73,7 @@ I love wrestling and swimming! I do cycling and I go motorbiking in biking seaso
 <div align="center">
 <!--[![](https://img.shields.io/badge/-violin-violet?style=for-the-badge&label=%f0%9f%8e%bb)](https://youtu.be/6qOXw5ySxpQ?t=141)-->
 	
-[![](https://img.shields.io/badge/-salad-red?style=for-the-badge&label=%f0%9f%8d%95)](https://simplesassyscrumptious.com/recipes/salad/fresh-herb-chickpea-salad/)
+[![](https://img.shields.io/badge/-salad-red?style=for-the-badge&label=%F0%9F%A5%97)](https://simplesassyscrumptious.com/recipes/salad/fresh-herb-chickpea-salad/)
 
 </div>
 
