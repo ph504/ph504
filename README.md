@@ -13,12 +13,12 @@ Hi, I am currently an MSc. student in computer science at the University of New 
 
 I am working currently on NAO and Jackal robots!
 
-In my bachelor's degree, I have worked with mechanical arms and mobile robots, experienced various problems, and enjoyed solving them in my internship and my bachelor's thesis. Since physical systems are too expensive to work with, I focused on developing my robotic projects with the powerful Webots robot simulator, which I used in all my robotics-related projects. I am enthusiastic about sharing what I learn with my underclassmen. I program games for fun.
+In my bachelor's degree, I have worked with mechanical arms and mobile robots, experienced various problems, and enjoyed solving them in my internship and my bachelor's thesis. Since physical systems are too expensive to work with, I focused on developing my robotic projects with the powerful Webots robot simulator, which I used in all my robotics-related projects. I am enthusiastic about sharing what I learn with my underclassmen. On a side note, I also program games for fun.
 
 ## Skills and Technologies
 <div align="center">
 
-[![](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)](https://www.java.com/)
+<!--[![](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)](https://www.java.com/)-->
 [![](https://img.shields.io/badge/-python3-yellow?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
 [![](https://img.shields.io/badge/-c++-blue?logoColor=blue&style=for-the-badge&logo=c%2B%2B&logoColor=000000)](https://www.cplusplus.com/)
 [![](https://img.shields.io/badge/-Matlab-orange?logoColor=white&style=for-the-badge&logo=matlab)](https://matlab.mathworks.com/)
@@ -34,8 +34,8 @@ In my bachelor's degree, I have worked with mechanical arms and mobile robots, e
 <div align="center">
 	
 [![](https://img.shields.io/badge/-aryaparvizi98@gmail.com-white?style=for-the-badge&logo=gmail)](aryaparvizi98@gmail.com)
-[![](https://img.shields.io/badge/-instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/aryaparvizi/)
-[![](https://img.shields.io/badge/-telegram-lightblue?style=for-the-badge&logo=telegram)](https://t.me/aph504)
+<!--[![](https://img.shields.io/badge/-instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/aryaparvizi/)-->
+<!--[![](https://img.shields.io/badge/-telegram-lightblue?style=for-the-badge&logo=telegram)](https://t.me/aph504)-->
 [![](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arya-parvizi-a37122151/)
 
 
