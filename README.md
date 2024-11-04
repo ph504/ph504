@@ -68,7 +68,9 @@ I love wrestling and swimming! I do cycling and I go motorbiking in biking seaso
 
 ---
 <div align="center">
+	
 ### Favorite Dish of the Month:
+
 <!--[![](https://img.shields.io/badge/-violin-violet?style=for-the-badge&label=%f0%9f%8e%bb)](https://youtu.be/6qOXw5ySxpQ?t=141)-->
 [![](https://img.shields.io/badge/-pizza-red?style=for-the-badge&label=%f0%9f%8d%95)](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiLp-_YuYvvAhUOV8AKHc-jCnUQFjAFegQIMBAD&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPizza&usg=AOvVaw2ZdHFN3Sn5DadwN1fuAvjs)
 </div>
