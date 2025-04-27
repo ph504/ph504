@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Born on August 8th, 1998, in Shiraz, Iran.
+Born on August 7th, 1998, in Shiraz, Iran.
 
 ### Bio
 Hi, I am currently an MSc. student in computer science at the University of New Brunswick. I have been graduated from Shahid Beheshti University with a BSc. Degree in computer engineering in summer 2022. I have a keen interest in Robotics, Reinforcement Learning, Deep Learning, and Computer Vision. 
